@@ -52,7 +52,7 @@
 ---
 
 ## 📺 演示视频
-等待上传
+【backpackdemo】 https://www.bilibili.com/video/BV1otVp6bE9P/?share_source=copy_web&vd_source=4c2df626c2b1ba89cde6c98f7a0840ab
 
 ---
 
