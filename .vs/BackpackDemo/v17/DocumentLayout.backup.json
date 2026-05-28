@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\BackpackDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B16E632B-3C40-68F7-17ED-1ADAF0681301}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\BackpackDemo\\assets\\scripts\\gridcell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16E632B-3C40-68F7-17ED-1ADAF0681301}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gridcell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16E632B-3C40-68F7-17ED-1ADAF0681301}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\BackpackDemo\\assets\\scripts\\weightmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16E632B-3C40-68F7-17ED-1ADAF0681301}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weightmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16E632B-3C40-68F7-17ED-1ADAF0681301}|Assembly-CSharp.csproj|c:\\users\\administrator\\desktop\\backpackdemo\\assets\\scripts\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16E632B-3C40-68F7-17ED-1ADAF0681301}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16E632B-3C40-68F7-17ED-1ADAF0681301}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\BackpackDemo\\assets\\scripts\\backpacksorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16E632B-3C40-68F7-17ED-1ADAF0681301}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backpacksorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GridCell.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BackpackDemo\\Assets\\Scripts\\GridCell.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GridCell.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BackpackDemo\\Assets\\Scripts\\GridCell.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GridCell.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAYwHcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T15:20:57.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BackpackSorter.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BackpackDemo\\Assets\\Scripts\\BackpackSorter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BackpackSorter.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BackpackDemo\\Assets\\Scripts\\BackpackSorter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BackpackSorter.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAQwD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T15:20:28.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeightManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BackpackDemo\\Assets\\Scripts\\WeightManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WeightManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BackpackDemo\\Assets\\Scripts\\WeightManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WeightManager.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T15:19:25.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemData.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BackpackDemo\\Assets\\Scripts\\ItemData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemData.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BackpackDemo\\Assets\\Scripts\\ItemData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ItemData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T15:18:51.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
