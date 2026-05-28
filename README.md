@@ -72,3 +72,6 @@
 - Unity 瀹樻柟鏂囨。 & UGUI 鏁欑▼
 
 ---
+
+## ?? 游戏分析报告
+[《星露谷物语》经济系统分析报告](StardewValley_Economic_Analysis.pdf)
