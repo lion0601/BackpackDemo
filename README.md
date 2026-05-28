@@ -65,7 +65,8 @@
 
 ## 📊 游戏分析报告
 
-[《星露谷物语》经济系统分析报告](StardewValley_Economic_Analysis.pdf)
+- **在线阅读**：[《星露谷物语》经济系统分析报告（Markdown）](Analysis.md)
+- **下载 PDF**：[StardewValley_Economic_Analysis.pdf](StardewValley_Economic_Analysis.pdf)
 
 ---
 
